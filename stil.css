@@ -1,0 +1,26 @@
+/*css document*/
+p{
+	color: green;
+	font-family: Constantia,"Lucida Bright";
+	font-size:16px;
+	line-height:18px;
+	width:800px;
+	background-color: white;
+	padding:20px;
+}
+h2{
+	font-family: Gotham,"Helvetica Neue",Helvetica, Arial, "sans-serif";
+	color: red;
+}
+h3{
+	color:black;
+	background-color:white;
+	width:150px;
+	padding:15px;
+}
+span{
+	color:black;
+}
+body{
+	background-image:url("https://media-exp1.licdn.com/dms/image/C4D1BAQFEM6GYodRNvw/company-background_10000/0/1519801714331?e=2147483647&v=beta&t=GYbB0vo7iDH_FE1zPerR2Jne0Oazt-kGm_7oIzWfOao");
+	
